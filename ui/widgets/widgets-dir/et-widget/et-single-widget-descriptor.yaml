@@ -3,7 +3,7 @@ titles:
   en: Single Content
   it: Single Content
 group: free
-customUiPath: et-widget.ftl
+customUiPath: et-single-widget.ftl
 configUi:
   customElement: single-content-widget-config # CHANGE-IT The name of the custom-element used to render the configUI
   resources: # CHANGE-IT the file containing the config screen built artefacts
